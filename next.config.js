@@ -2,9 +2,4 @@
 export default {
   reactStrictMode: true,
 }
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true
-}
-
-module.exports = nextConfig
+// Note: keep a single ESM export when using "type": "module" in package.json
