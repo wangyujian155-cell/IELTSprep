@@ -1,0 +1,7 @@
+{
+  "name": "Copy of IELTS Prep.AI",
+  "description": "An AI-powered IELTS speaking practice application. Browse topics, review sample answers, and generate custom audio responses using Gemini 2.5.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
